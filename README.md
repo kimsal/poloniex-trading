@@ -116,8 +116,8 @@ DOGE: DAQjkQNbhpUoQw7KHAGkDYZ3yySKi751dd
 	Python multiple-trade.py
 # note:
 ```
- if you want to play more coin or less coin, just add or remove it from variable named "play_coins"_
- # By default: play_coins = ['ETH',"ETC"]
+ if you want to play more coin or less coin, just add or remove it from variable named "play_coins"
+ #By default: play_coins = ['ETH',"ETC"]
 
   data_multiple.csv : is file to store old price of each coin.
   note.txt : is file to store note everytime you buy or sell coin.
