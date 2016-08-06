@@ -112,7 +112,7 @@ LTC: LakbntAYrwpVSnLWj1fCLttVzpiDXDa5JV
 DOGE: DAQjkQNbhpUoQw7KHAGkDYZ3yySKi751dd
 ```
 #**Kimsal: More Not about how to run it:**
-To run it:_
+#To run it: 
 	Python multiple-trade.py
 # note:
 ```
@@ -120,7 +120,5 @@ To run it:_
  # By default: play_coins = ['ETH',"ETC"]
 
   data_multiple.csv : is file to store old price of each coin.
-
   note.txt : is file to store note everytime you buy or sell coin.
-
   count.txt : is file to store note " How many time you executed the file. "
